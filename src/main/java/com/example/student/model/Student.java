@@ -1,6 +1,8 @@
 package com.example.student.model;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
+
+
 
 import static com.example.student.util.Constants.STUDENT_TABLE;
 
